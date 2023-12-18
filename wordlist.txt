@@ -1,100 +1,100 @@
 baking powder
 boxcar
 satellite dish
-potato
+potato:yellow,brown
 california
-tooth fairy
+tooth fairy:person
 trash
-mango
-pewdiepie
+mango:yellow
+pewdiepie:person
 plug
 song
-bronze
+bronze:brown,yellow
 metro
 crescent
-green beans
-dip
-satan
-france
-professor
-vector
+green beans:green
+dip:yellow
+satan:red
+france:flag
+professor:person
+vector:person,orange
 morocco
-high five
+high five:person,hand
 app
-lightsaber
+lightsaber:person,multi
 crab
 applause
-honeycomb
+honeycomb:yellow
 ice cream truck
 dye
 slip
 election
 brain
-anubis
+anubis:person,animal,yellow
 bow tie
 paypal
-coconut
-gorilla
+coconut:brown
+gorilla:black,brown
 dress
-frogger
+frogger:green
 sticker
 paperclip
 rim
 cube
 bell
 ladle
-needle
+needle:grey
 wwe
 tennis racket
 dream catcher
 aquarium
 boxing
 baseball bat
-cabbage
+cabbage:green
 bongo
 beer
 gummy worm
 sledge
-tomato
+tomato:red
 minute
-biceps
-t-rex
-pedicure
-miner
-karate
-sunflower
-tuba
+biceps:person
+t-rex:animal,tall
+pedicure:person,foot
+miner:person
+karate:person
+sunflower:tall,green,yellow
+tuba:yellow
 fur
-floppy disk
+floppy disk:rectangle,circle
 volleyball
-ramen
-evolution
-yo-yo
-knuckles
+ramen:food
+evolution:animal,person
+yo-yo:circle
+knuckles:person,hand
 cell phone
 new zealand
-teletubby
-army
+teletubby:person
+army:person
 ruler
 face paint
 star wars
-chili
+chili:red,green
 fridge
 midnight
 mustache
 orchard
 star
 table
-chocolate
+chocolate:brown
 town
-waffle
+waffle:yellow,brown
 vacuum
 equator
 bass
 seagull
-hamburger
+hamburger:yellow
 meerkat
-chicken
+chicken:bird
 pillow
 toenail
 puzzle
@@ -102,31 +102,31 @@ studio
 crucible
 skribbl.io
 center
-whiteboard
+whiteboard:rectangle
 bald
 nerd
-hospital
+hospital:building
 megaphone
 dab
 cringe
 mr. meeseeks
 full
-hot sauce
+hot sauce:red,food
 sad
 geography
-cello
+cello:brown
 salute
-apricot
+apricot:orange,yellow
 scratch
 rap
 mona lisa
 track
 comfortable
 wrestler
-pet shop
+pet shop:building
 evaporate
-drool
-fireplace
+drool:person,head
+fireplace:red,rectangle,building
 knee
 pinata
 saw
@@ -170,10 +170,10 @@ glass
 subway
 ski jump
 poor
-angry birds
+angry birds:red,brown,green
 short
 nest
-barcode
+barcode:lines
 smart
 earmuffs
 rare
@@ -188,7 +188,7 @@ candy store
 hammock
 oatmeal
 trousers
-homeless
+homeless:person,building
 cupid
 lilypad
 cookie jar
@@ -196,34 +196,34 @@ hiking
 long coat
 disaster
 chef
-university
-hypnotize
-donkey
+university:building
+hypnotize:person,multi
+donkey:animal
 hobbit
-mummy
-cobweb
-tapeworm
-website
+mummy:person,white,grey
+cobweb:grey
+tapeworm:bug
+website:letters,rectangle
 procrastination
-pac-man
+pac-man:yellow,blue
 witch
 referee
-jaw
-sweater
+jaw:head
+sweater:person
 robbie rotten
 graphics card
-imagination
-skirt
-shoulder
-pray
+imagination:person
+skirt:person
+shoulder:person
+pray:person
 airport
 iguana
 insomnia
 airbag
 squeal
-calculator
+calculator:rectangle
 horizon
-grin
+grin:person,head
 record
 pause
 stick
@@ -232,9 +232,9 @@ wash
 celebrity
 koala
 new york
-goat
+goat:animal
 troll
-blowfish
+blowfish:fish
 job
 pitchfork
 pasta
@@ -243,7 +243,7 @@ loading
 trunk
 kiss
 noodle
-telescope
+telescope:dark
 hourglass
 pencil case
 floss
@@ -259,7 +259,7 @@ pregnant
 opera
 line
 gumball
-corn
+corn:green,yellow
 scribble
 leech
 machine gun
@@ -269,7 +269,7 @@ fungus
 link
 stubble
 mayor
-eggplant
+eggplant:purple
 saltwater
 lock
 thumbs up
@@ -279,19 +279,19 @@ alchemist
 pair
 day
 sand
-carpet
-corner
-candle
+carpet:rectangle,wide
+corner:rectangle
+candle:tall
 axe
 goal
-bayonet
+bayonet:brown,grey
 tentacle
 angry
 honey
 aluminum
 palace
 sitar
-eagle
+eagle:bird
 price
 happy meal
 thunderstorm
@@ -302,16 +302,16 @@ cauldron
 diva
 t-shirt
 sign
-seat belt
+seat belt:person
 sriracha
 racecar
 london eye
 itch
 insect
 soldier
-shades
+shades:black,yellow,head,person
 urn
-birdhouse
+birdhouse:brown,green,tree
 barber
 insulation
 dome
@@ -320,20 +320,20 @@ jeans
 moth
 dora
 church
-pajamas
+pajamas:person,legs,blue,red
 warehouse
-haunted house
+haunted house:building,dark,black,orange
 excalibur
 catalog
 hard hat
 brachiosaurus
 hunger
-drown
+drown:water,blue
 tie
 northern lights
 germany
 clerk
-hot air balloon
+hot air balloon:blue,sky
 swordfish
 arrow
 totem
@@ -343,14 +343,14 @@ infinite
 real estate
 horn
 tuxedo
-tadpole
+tadpole:water,green,blue
 blouse
 drive
 fingertip
 rapier
 capsule
 goblin
-nutella
+nutella:brown,red
 left
 cry
 phineas and ferb
@@ -390,7 +390,7 @@ hut
 jazz
 cut
 dessert
-mask
+mask:rectangle,head,person
 camping
 smile
 ocean
@@ -401,25 +401,25 @@ sweet potato
 croissant
 cloak
 vodka
-papaya
+papaya:fruit
 fluid
 melt
 summer
 bean bag
 seal
-english channel
-reptile
+english channel:blue,water
+reptile:animal,green
 fox
 drag
 healthy
-pigeon
-tombstone
+pigeon:bird
+tombstone:tall,grey
 car wash
-triceratops
+triceratops:animal
 virus
-tropical
+tropical:green
 chimney
-factory
+factory:building
 hula hoop
 parallel
 doghouse
@@ -531,7 +531,7 @@ cowboy
 banner
 cart
 margarine
-water slide
+water slide:diagonal
 full moon
 eyelash
 sim card
@@ -563,14 +563,14 @@ magic wand
 hamster
 artist
 wind farm
-popsicle
+popsicle:tall
 sausage
 slope
 cinema
 drill
-programmer
+programmer:person
 exhausted
-fist bump
+fist bump:person,hand,multi
 gift
 step
 ring finger
@@ -674,7 +674,7 @@ duct tape
 chew
 bowling alley
 antivirus
-dracula
+dracula:dark,person,black
 pike
 powder
 park
@@ -686,10 +686,10 @@ whirlpool
 tire
 denmark
 underground
-hotel
+hotel:building
 blizzard
 outlaw
-cornfield
+cornfield:green,yellow
 stonehenge
 kidney
 levitate
@@ -706,8 +706,8 @@ hose
 red sea
 barrel
 deer
-trump
-abraham lincoln
+trump:person
+abraham lincoln:person
 abstract
 abyss
 ac/dc
@@ -749,14 +749,14 @@ anaconda
 android
 angel
 angelina jolie
-anglerfish
+anglerfish:animal
 animation
 anime
 ant
 antarctica
 anteater
-antelope
-antenna
+antelope:animal
+antenna:rectangle
 anthill
 anvil
 apartment
@@ -783,10 +783,10 @@ atlantis
 atom
 attic
 audi
-audience
+audience:person,multi,building
 australia
-autograph
-avocado
+autograph:person,multi
+avocado:green,fruit
 baboon
 baby
 back pain
@@ -842,7 +842,7 @@ bear trap
 beatbox
 beaver
 bed
-bed bug
+bed bug:bug
 bed sheet
 bedtime
 bee
@@ -1120,7 +1120,7 @@ credit card
 creeper
 cricket
 croatia
-crocodile
+crocodile:green,wide
 crow
 crown
 crowbar
@@ -1128,31 +1128,31 @@ cruise
 crust
 cuba
 cuckoo
-cucumber
+cucumber:green,yellow,wide,tall
 cupcake
 curry
-curtain
+curtain:tall
 cushion
 customer
 cute
-cyborg
+cyborg:grey
 cylinder
 cymbal
 daffy duck
-dagger
+dagger:grey,brown
 daisy
 dalmatian
 dance
 dandelion
 dandruff
 dantdm
-darts
+dart
 darwin
 darwin watterson
 dashboard
 daughter
 dead
-deadpool
+deadpool:red,black
 deaf
 debit card
 deep
@@ -1213,45 +1213,45 @@ dream
 dressing
 drink
 driver
-droplet
+droplet:blue
 drought
 drum
 drum kit
-duck
+duck:yellow,animal
 duel
 dumbo
 dynamite
 ear
 earbuds
-earth
+earth:circle,blue,green
 earthquake
 earwax
 east
 easter
-easter bunny
-easter island
+easter bunny:animal,pink
+easter island:land,water,grey
 eat
 echo
-eclipse
+eclipse:yellow,circle,sky,dark
 eel
 egg
-eiffel tower
+eiffel tower:building,diagonal,tall
 einstein
 elbow
 elder
 electric car
 electric guitar
 electrician
-elephant
+elephant:animal,grey
 elevator
 elmo
 embers
-emerald
-eminem
+emerald:green
+eminem:person
 employer
 end
 engine
-engineer
+engineer:person
 england
 eraser
 error
@@ -1262,19 +1262,19 @@ evening
 exam
 excavator
 exercise
-explosion
-eye
-eyebrow
-eyelid
-eyeshadow
+explosion:gray,red,orange,yellow
+eye:head,person,eye
+eyebrow:head,person,eye
+eyelid:head,person,eye
+eyeshadow:head,person,eye
 fabric
 fabulous
 facade
 face
-facebook
+facebook:blue,rectangle
 failure
 fairy
-fake teeth
+fake teeth:head,mouth
 fall
 family
 family guy
@@ -1285,7 +1285,7 @@ fast food
 fast forward
 father
 faucet
-feather
+feather:bird
 fence
 fencing
 fern
@@ -1325,7 +1325,7 @@ flask
 flea
 flight attendant
 flock
-floodlight
+floodlight:black,yellow,dark
 florida
 florist
 flu
@@ -1347,9 +1347,9 @@ football
 fossil
 fountain
 frame
-frankenstein
+frankenstein:person,green
 freckles
-fred flintstone
+fred flintstone:person,yellow
 freezer
 fries
 frog
@@ -1399,17 +1399,17 @@ glowstick
 glue
 glue stick
 gnome
-goatee
+goatee:head,person
 god
 godfather
 gold
-gold ingot
-gold ingots
-gold chain
-golden apple
-golden egg
-goldfish
-golf
+gold ingot:yellow,wide
+gold ingots:yellow
+gold chain:yellow
+golden apple:yellow
+golden egg:yellow
+goldfish:yellow,orange,fish
+golf:land
 golf cart
 good
 google
@@ -1463,17 +1463,17 @@ hawaii
 hazard
 hazelnut
 head
-headband
-headboard
+headband:head
+headboard:rectangle,person
 heading
-headphones
+headphones:head
 health
 heart
 hedgehog
 heel
-helicopter
+helicopter:sky
 hell
-hello kitty
+hello kitty:pink,animal
 helmet
 hexagon
 hibernate
@@ -1484,7 +1484,7 @@ highway
 hilarious
 hill
 hippie
-hippo
+hippo:grey
 hitchhiker
 hive
 hockey
@@ -1493,14 +1493,14 @@ hollywood
 home alone
 homework
 homer simpson
-hoof
+hoof:animal,brown
 hook
 hop
 hopscotch
 horse
 horsewhip
 hot
-hot chocolate
+hot chocolate:brown,cup
 hot dog
 hovercraft
 hug
@@ -1579,7 +1579,7 @@ kindergarten
 king
 king kong
 kirby
-kitchen
+kitchen:rectangle,building
 kite
 kitten
 kiwi
@@ -1590,15 +1590,15 @@ knot
 knuckle
 kraken
 label
-laboratory
-ladder
+laboratory:building
+ladder:tall,diagonal
 lady
-lady gaga
+lady gaga:person
 ladybug
-lake
+lake:blue,water
 lamb
 lamp
-landlord
+landlord:person,building
 landscape
 lane
 language
@@ -1609,27 +1609,27 @@ las vegas
 lasagna
 laser
 laundry
-lava
-lava lamp
+lava:orange,red,yellow
+lava lamp:orange,red,yellow
 lawn mower
 lawyer
 leader
-leaf
+leaf:green,brown
 leak
-leash
+leash:animal
 leave
 lego
-legs
+legs:legs
 lemon
 lemonade
 lemur
 lens
-leonardo da vinci
-leonardo dicaprio
-leprechaun
-lettuce
-librarian
-library
+leonardo da vinci:person
+leonardo dicaprio:person
+leprechaun:person,green
+lettuce:green
+librarian:person
+library:rectangle,building,tall
 licorice
 lid
 lightbulb
@@ -1681,7 +1681,7 @@ mall
 mammoth
 manatee
 manhole
-manicure
+manicure:person,hand
 mannequin
 mansion
 mantis
@@ -1954,11 +1954,11 @@ pond
 pony
 ponytail
 poodle
-poop
+poop:brown
 popcorn
 pope
 popeye
-poppy
+poppy:flower,plant,green,orange,red
 popular
 porch
 porcupine
@@ -1966,7 +1966,7 @@ porky pig
 portal
 portrait
 portugal
-poseidon
+poseidon:water,green,blue,person
 positive
 postcard
 poster
@@ -2040,7 +2040,7 @@ rectangle
 recycling
 red
 red carpet
-reddit
+reddit:red
 reeds
 reflection
 reindeer
@@ -2051,7 +2051,7 @@ repeat
 rest
 restaurant
 retail
-revolver
+revolver:brown,black,grey
 rewind
 rhinoceros
 rib
@@ -2067,13 +2067,13 @@ robber
 robin
 robin hood
 robot
-rock
+rock:grey
 roll
 romania
 rome
 roof
 room
-rooster
+rooster:animal,bird
 rose
 royal
 rubber
@@ -2165,7 +2165,7 @@ silo
 silver
 silverware
 sing
-singapore
+singapore:flag
 sink
 six pack
 skateboard
@@ -2180,13 +2180,13 @@ skrillex
 skull
 skunk
 sky
-skydiving
+skydiving:sky
 skyline
 skyscraper
 sledgehammer
 sleep
 sleeve
-slide
+slide:diagonal
 slime
 slingshot
 slinky
@@ -2251,7 +2251,7 @@ squid
 squidward
 squirrel
 squash
-stab
+stab:person,multi
 stadium
 stage
 stamp
@@ -2292,16 +2292,16 @@ suit
 suitcase
 sun
 sunburn
-sunglasses
+sunglasses:head
 sunrise
 sunshade
-superman
+superman:sky,person
 supermarket
 superpower
 surface
 surgeon
 survivor
-susan wojcicki
+susan wojcicki:person
 sushi
 swag
 swamp
@@ -2316,20 +2316,20 @@ sword
 sydney opera house
 symphony
 table tennis
-tablecloth
+tablecloth:rectangle,diagonal
 tablet
 tabletop
 taco
 tail
 tailor
 take off
-talent show
+talent show:wide,rectangle,building
 tangerine
 tape
 target
 tarzan
 taser
-tattoo
+tattoo:person
 taxi
 taxi driver
 tea
@@ -2340,11 +2340,11 @@ teaspoon
 teddy bear
 telephone
 television
-temperature
+temperature:red,blue,yellow
 tennis
 tent
 terminator
-tetris
+tetris:rectangle
 the beatles
 thermometer
 thief
@@ -2353,7 +2353,7 @@ thigh
 thirst
 thor
 thorn
-throat
+throat:person,head
 throne
 thug
 thumb
@@ -2366,8 +2366,8 @@ tiny
 tip
 tiramisu
 tired
-tissue box
-titanic
+tissue box:rectangle
+titanic:water
 toast
 toaster
 toe
@@ -2375,7 +2375,7 @@ toilet
 tomb
 tongue
 toolbox
-tooth
+tooth:person,head
 toothbrush
 toothpaste
 toothpick
@@ -2401,11 +2401,11 @@ train
 translate
 trap
 trapdoor
-trash can
+trash can:tall
 traveler
-treadmill
+treadmill:person
 treasure
-treehouse
+treehouse:green,brown,tree
 trend
 triangle
 trick shot
@@ -2414,22 +2414,22 @@ trigger
 triplets
 tripod
 trombone
-truck
-truck driver
-trumpet
+truck:rectangle
+truck driver:person
+trumpet:yellow,person
 tug
 tumor
-tuna
+tuna:water,fish
 tunnel
 turkey
-turnip
-turtle
+turnip:pink,red,green
+turtle:green,water
 tweety
 twig
 type
 udder
 ufo
-ukulele
+ukulele:brown
 umbrella
 uncle
 undo
@@ -2485,7 +2485,7 @@ walk
 wall
 wall-e
 walnut
-walrus
+walrus:animal,grey
 warm
 wart
 wasp
@@ -2540,7 +2540,7 @@ wonderland
 woodpecker
 wool
 work
-world
+world:circle,blue,green
 worm
 wound
 wrapping
@@ -2570,7 +2570,7 @@ passport
 pizza hut
 philippines
 bug
-card
+card:tall,rectangle
 cafe
 friendship bracelet
 flood
@@ -2677,7 +2677,7 @@ award
 tulip
 helium
 plantation
-look
+look:person,head
 cheers
 tinfoil
 serbia
@@ -2736,7 +2736,7 @@ cinnamon roll
 steering wheel
 dumb
 herd
-exit
+exit:rectangle,tall,door,building
 grey
 bidet
 handstand
@@ -2854,7 +2854,7 @@ street light
 broadway
 wish
 traffic jam
-tom cat
+tom cat:animal
 baking soda
 cracker
 man
@@ -2923,7 +2923,7 @@ cashier
 pylon
 prize
 fettuccine
-solar panel
+solar panel:building,black
 wasteland
 toilet brush
 kombucha
@@ -2942,30 +2942,30 @@ cookout
 twins
 cavern
 landfill
-college
+college:building,person
 dr watson
 note
-falcon
-romeo and juliet
-falafel
+falcon:bird
+romeo and juliet:person
+falafel:food
 venomous
 armchair
-redstone
-vietnam
+redstone:rectangle,red
+vietnam:flag
 sensor
 outer space
 plastic bag
-spike strips
-dory
+spike strips:wide,grey
+dory:fish,blue
 afk
 water tower
 middle
-nicolas cage
-plague doctor
+nicolas cage:person
+plague doctor:person,animal,bird,dark
 speed
 gutter
 tangled
-tug of war
+tug of war:person,multi
 jupiter
 circuit
 war
@@ -2984,7 +2984,7 @@ roblox
 elf
 wet
 zucchini
-sapphire
+sapphire:blue
 case
 group
 rapunzel
@@ -3092,7 +3092,7 @@ taco bell
 berlin wall
 shooting star
 pollen
-cure
+cure:person
 conflict
 whiskey
 coronavirus
@@ -3193,7 +3193,7 @@ poker
 sock puppet
 mousepad
 dawn
-pantry
+pantry:rectangle,brown
 oven mitt
 hour
 uluru
@@ -3298,7 +3298,7 @@ block
 tutu
 antlers
 obsidian
-iron ingot
+iron ingot:grey
 possessed
 luxury
 smug
@@ -3562,7 +3562,7 @@ chewing gum
 foundation
 weakling
 aardvark
-shave ice
+shave ice:food
 tumbleweed
 riot
 downstairs
@@ -3571,13 +3571,13 @@ crowd
 creep
 scrabble
 pulley
-car dealership
+car dealership:car,person,building
 stable
 suck
 window sill
 casserole
 edge
-bus terminal
+bus terminal:bus,car,building
 caramel
 disagree
 moscow

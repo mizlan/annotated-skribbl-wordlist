@@ -227,16 +227,16 @@ grin:person,head
 record
 pause
 stick
-whiskers
+whiskers:cat
 wash
 celebrity
 koala
-new york
+new york:flag
 goat:animal
 troll
 blowfish:fish
 job
-pitchfork
+pitchfork:tall
 pasta
 rubber band
 loading
@@ -373,7 +373,7 @@ safari
 surfboard
 house
 flush
-pearl
+pearl:circle,water
 whip
 dwarf
 steal
@@ -383,11 +383,11 @@ apocalypse
 leggings
 bowser
 ink
-circle
+circle:circle
 sleepwalk
 tsunami
 hut
-jazz
+jazz:person,multi,instrument
 cut
 dessert
 mask:rectangle,head,person
@@ -396,7 +396,7 @@ smile
 ocean
 ireland
 tank
-winnie the pooh
+winnie the pooh:yellow,red,animal
 sweet potato
 croissant
 cloak
@@ -562,7 +562,7 @@ peacock
 magic wand
 hamster
 artist
-wind farm
+wind farm:tall,multi
 popsicle:tall
 sausage
 slope
@@ -574,7 +574,7 @@ fist bump:person,hand,multi
 gift
 step
 ring finger
-leather
+leather:brown,clothes,person
 otter
 ice cream shop
 direction
@@ -1277,23 +1277,23 @@ fairy
 fake teeth:head,mouth
 fall
 family
-family guy
+family guy:person
 farmer
-fashion designer
-fast
-fast food
-fast forward
+fashion designer:person
+fast:person,animal
+fast food:food
+fast forward:triangle
 father
 faucet
 feather:bird
-fence
-fencing
+fence:wide,tall,land
+fencing:person,multi
 fern
-ferrari
+ferrari:car,red
 festival
 fidget spinner
 field
-figurine
+figurine:person
 filmmaker
 filter
 finger
@@ -1305,14 +1305,14 @@ fire hydrant
 fire truck
 fireball
 firecracker
-firefighter
+firefighter:person,red,fire
 firefly
 fireman
 fireproof
 fireside
 firework
 fish bowl
-fisherman
+fisherman:person,water,fish
 fist fight
 fitness trainer
 fizz
@@ -1320,7 +1320,7 @@ flagpole
 flamethrower
 flamingo
 flash
-flashlight
+flashlight:tall,wide
 flask
 flea
 flight attendant
@@ -2537,7 +2537,7 @@ wizard
 wolf
 wonder woman
 wonderland
-woodpecker
+woodpecker:tree
 wool
 work
 world:circle,blue,green
@@ -2553,7 +2553,7 @@ x-ray
 xbox
 xerox
 xylophone
-yacht
+yacht:water
 yardstick
 yawn
 yearbook
@@ -2608,7 +2608,7 @@ slave
 rollerblade
 solar flare
 oven
-nightlight
+nightlight:dark,yellow
 weight
 chip
 jet pack
@@ -2752,7 +2752,7 @@ bathrobe
 watch tower
 minority
 fingerprint
-instagram
+instagram:rectangle
 airpods
 shooter
 speech
@@ -2760,26 +2760,26 @@ fat
 olympics
 niece
 spend
-countdown
+countdown:number
 necklace
-plankton
+plankton:green,blue
 gamer
 afternoon
 kayak
 bottom
-pork
+pork:pink,animal
 criminal
 jedi
 equation
 insane
-among us
-close
+among us:red,green,blue
+close:building
 scrambled eggs
 game boy
 push
 garlic powder
 ship
-cuttlefish
+cuttlefish:water,animal
 jar
 gap
 broken

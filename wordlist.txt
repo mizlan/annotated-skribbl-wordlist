@@ -106,7 +106,7 @@ whiteboard:rectangle
 bald
 nerd
 hospital:building
-megaphone
+megaphone:triangle
 dab
 cringe
 mr. meeseeks
@@ -127,12 +127,12 @@ pet shop:building
 evaporate
 drool:person,head
 fireplace:red,rectangle,building
-knee
+knee:person,legs
 pinata
 saw
 ashtray
-hermit
-paper bag
+hermit:animal
+paper bag:brown,rectangle,tall
 honeymoon
 heat
 anchor
@@ -384,8 +384,8 @@ leggings
 bowser
 ink
 circle:circle
-sleepwalk
-tsunami
+sleepwalk:person
+tsunami:blue,yellow,diagonal
 hut
 jazz:person,multi,instrument
 cut
@@ -393,12 +393,12 @@ dessert
 mask:rectangle,head,person
 camping
 smile
-ocean
+ocean:blue,yellow,diagonal
 ireland
 tank
 winnie the pooh:yellow,red,animal
 sweet potato
-croissant
+croissant:wide,yellow
 cloak
 vodka
 papaya:fruit
@@ -552,7 +552,7 @@ copper
 wheat
 bricklayer
 the avengers
-keyboard
+keyboard:rectangle
 railroad crossing
 butterfly
 pain
@@ -593,19 +593,19 @@ paddle
 microphone
 lion
 illuminati
-cupboard
+cupboard:rectangle
 flower
 lipstick
 dirty
 trench coat
 demolition derby
-panini
+panini:rectangle,food,triangle
 bookshelf
 graveyard
 rocket
 fanta
 shoot
-preach
+preach:person,building
 protein
 jesus christ
 frostbite
@@ -882,7 +882,7 @@ blacksmith
 blanket
 bleach
 blender
-blimp
+blimp:wide,sky
 blind
 blindfold
 blood
@@ -891,7 +891,7 @@ blueberry
 blush
 bmw
 boar
-board
+board:rectangle
 boat
 bobsled
 bodyguard
@@ -977,7 +977,7 @@ cappuccino
 capricorn
 captain
 captain america
-cardboard
+cardboard:rectangle,brown
 carnival
 carnivore
 carpenter
@@ -1000,7 +1000,7 @@ ceiling fan
 celebrate
 cell
 cement
-centaur
+centaur:person,animal,brown
 centipede
 cerberus
 chainsaw
@@ -1149,7 +1149,7 @@ dantdm
 dart
 darwin
 darwin watterson
-dashboard
+dashboard:rectangle
 daughter
 dead
 deadpool:red,black
@@ -1188,15 +1188,15 @@ dispenser
 diss track
 distance
 divorce
-dizzy
+dizzy:person
 dna
 dock
 doctor
 dog
 dogfish
 doll
-dollar
-dollhouse
+dollar:rectangle,green
+dollhouse:building
 dolphin
 dominoes
 donald trump
@@ -1239,13 +1239,13 @@ eiffel tower:building,diagonal,tall
 einstein
 elbow
 elder
-electric car
+electric car:wide
 electric guitar
 electrician
 elephant:animal,grey
-elevator
-elmo
-embers
+elevator:rectangle
+elmo:red,person
+embers:red,orange
 emerald:green
 eminem:person
 employer
@@ -1365,13 +1365,13 @@ gangster
 garage
 garbage
 garden
-gardener
+gardener:green,person
 garfield
 garlic
 gas
 gas mask
 gasoline
-gasp
+gasp:person,head
 gate
 gem
 gum
@@ -1379,13 +1379,13 @@ gender
 generator
 genie
 gentle
-gentleman
+gentleman:person,black
 germ
 geyser
 ghost
 ghoul
 giant
-giraffe
+giraffe:animal,tall,yellow,brown
 girl
 gladiator
 glasses
@@ -1412,7 +1412,7 @@ goldfish:yellow,orange,fish
 golf:land
 golf cart
 good
-google
+google:red,green,yellow,wide
 goose
 graffiti
 grandmother
@@ -1444,7 +1444,7 @@ hair
 hair roller
 haircut
 hairy
-halo
+halo:person,circle,white
 ham
 hammer
 hand
@@ -1978,7 +1978,7 @@ prawn
 present
 president
 pretzel
-price tag
+price tag:rectangle
 priest
 prince
 princess
@@ -2038,7 +2038,7 @@ reception
 receptionist
 rectangle
 recycling
-red
+red:red
 red carpet
 reddit:red
 reeds
@@ -2065,7 +2065,7 @@ roadblock
 robe
 robber
 robin
-robin hood
+robin hood:green,person
 robot
 rock:grey
 roll
@@ -2074,7 +2074,7 @@ rome
 roof
 room
 rooster:animal,bird
-rose
+rose:green,red,plant
 royal
 rubber
 ruby
@@ -2400,14 +2400,14 @@ trailer
 train
 translate
 trap
-trapdoor
+trapdoor:brown,rectangle,wide
 trash can:tall
 traveler
 treadmill:person
-treasure
+treasure:brown,yellow
 treehouse:green,brown,tree
 trend
-triangle
+triangle:triangle
 trick shot
 tricycle
 trigger
@@ -2433,7 +2433,7 @@ ukulele:brown
 umbrella
 uncle
 undo
-unibrow
+unibrow:person,head
 unicorn
 unicycle
 uniform
@@ -2443,13 +2443,13 @@ usb
 vacation
 vaccine
 valley
-vampire
+vampire:person,red,black
 vanish
 vatican
 vault
 vault boy
-vegetable
-vegetarian
+vegetable:green
+vegetarian:green,person
 vein
 velociraptor
 vent
@@ -2508,8 +2508,8 @@ west
 western
 whale
 whatsapp
-wheel
-wheelbarrow
+wheel:circle
+wheelbarrow:red
 whisk
 whisper
 whistle
@@ -2524,12 +2524,12 @@ wind
 windmill
 window
 windshield
-wine
-wine glass
+wine:tall,red,purple
+wine glass:tall,red,purple
 wing
 wingnut
 winner
-winter
+winter:white,land,sky
 wire
 wireless
 witness
@@ -2617,7 +2617,7 @@ thumbs down
 police
 wood
 combine harvester
-slippers
+slippers:wide
 bored
 biker
 kool-aid
@@ -3201,7 +3201,7 @@ kill
 level
 dunes
 black pepper
-board game
+board game:rectangle
 salami
 jam
 explorer
@@ -3487,7 +3487,7 @@ imp
 bikini
 berlin
 blowtorch
-chemistry
+chemistry:tall
 joy
 bully
 body
@@ -3517,7 +3517,7 @@ seizure
 call
 experiment
 share
-chalkboard
+chalkboard:rectangle
 checkers
 eyeliner
 purple

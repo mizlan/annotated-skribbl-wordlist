@@ -149,7 +149,7 @@ south pole
 palm tree
 cab driver
 armpit
-tampon
+tampon:woman
 nose hair
 firehouse
 piggy bank
@@ -159,7 +159,7 @@ tax
 polar bear
 argentina
 japan
-mailman
+mailman:person
 graduation
 rat
 comet
@@ -195,7 +195,7 @@ cookie jar
 hiking
 long coat
 disaster
-chef
+chef:person,white
 university:building
 hypnotize:person,multi
 donkey:animal
@@ -304,7 +304,7 @@ t-shirt
 sign
 seat belt:person
 sriracha
-racecar
+racecar:car
 london eye
 itch
 insect
@@ -315,7 +315,7 @@ birdhouse:brown,green,tree
 barber
 insulation
 dome
-godzilla
+godzilla:tall,building
 jeans
 moth
 dora
@@ -335,16 +335,16 @@ germany
 clerk
 hot air balloon:blue,sky
 swordfish
-arrow
+arrow:wide
 totem
-gamer girl
+gamer girl:person,woman
 spot
 infinite
 real estate
 horn
-tuxedo
+tuxedo:black,white,person
 tadpole:water,green,blue
-blouse
+blouse:person,woman
 drive
 fingertip
 rapier
@@ -475,7 +475,7 @@ casual
 spur
 root
 teapot
-race
+race:person,wide
 hockey stick
 memory
 tipi
@@ -838,7 +838,7 @@ beak
 bean
 beanie
 beanstalk
-bear trap
+bear trap:wide,circle,triangle
 beatbox
 beaver
 bed
@@ -853,12 +853,12 @@ beetle
 bell pepper
 bellow
 belly
-belly button
+belly button:person
 below
-belt
+belt:person
 bench
-betray
-bible
+betray:person,multi
+bible:rectangle
 bicycle
 big ben
 bill
@@ -1204,7 +1204,7 @@ doorknob
 doritos
 dots
 double
-dough
+dough:yellow,food,white
 download
 dragon
 drama
@@ -1607,7 +1607,7 @@ lap
 laptop
 las vegas
 lasagna
-laser
+laser:red,long
 laundry
 lava:orange,red,yellow
 lava lamp:orange,red,yellow
@@ -1638,7 +1638,7 @@ lighthouse
 lightning
 lily
 limbo
-lime
+lime:green,yellow
 limousine
 lion king
 lips
@@ -2055,7 +2055,7 @@ revolver:brown,black,grey
 rewind
 rhinoceros
 rib
-ribbon
+ribbon:rectangle,red
 rice
 ring
 ringtone
@@ -2089,8 +2089,8 @@ saliva
 salmon
 salt
 samsung
-sand castle
-sandwich
+sand castle:yellow,blue,wide
+sandwich:triangle,rectangle
 santa
 satellite
 saturn
@@ -2150,7 +2150,7 @@ shoe
 shoebox
 shoelace
 shop
-shopping
+shopping:building,letters
 shotgun
 shout
 shovel
@@ -2161,7 +2161,7 @@ shrub
 sick
 signature
 silence
-silo
+silo:red,land
 silver
 silverware
 sing
@@ -2195,15 +2195,15 @@ sloth
 slow
 slump
 smell
-snail
-snake
+snail:circle,wide
+snake:green:circle:wide
 sneeze
-sniper
-snow
-snowball fight
-snowboard
-snowflake
-snowman
+sniper:person,wide
+snow:white,land
+snowball fight:white
+snowboard:white,wide
+snowflake:white,land
+snowman:white,land
 soap
 soccer
 social media
@@ -2852,7 +2852,7 @@ stink
 nuclear
 street light
 broadway
-wish
+wish:star,night
 traffic jam
 tom cat:animal
 baking soda
@@ -2860,14 +2860,14 @@ cracker
 man
 cannonball
 pad
-alphabet
+alphabet:letters
 carrot cake
 lunch
 coca cola
 cologne
 fish and chips
 jaws
-lebron james
+lebron james:person,dark
 candy
 principal
 degree
@@ -3038,7 +3038,7 @@ shrug
 doormat
 cent
 city
-donkey kong
+donkey kong:brown,animal
 elliptical
 snoop dogg
 wishing well
